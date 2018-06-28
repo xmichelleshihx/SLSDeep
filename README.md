@@ -12,7 +12,7 @@ If you use this code or its database, please consider citing:
 ```
 @article{sarker2018slsdeep,
   title={SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks},
-  author={Sarker, Md and Kamal, Mostafa and Rashwan, Hatem A and Banu, Syeda Furruka and Saleh, Adel and Singh, Vivek Kumar and Chowdhury, Forhad UH and Abdulwahab, Saddam and Romani, Santiago and Radeva, Petia and others},
+  author={Sarker, Md and Kamal, Mostafa and Rashwan, Hatem A and Banu, Syeda Furruka and Saleh, Adel and Singh, Vivek Kumar and Chowdhury, Forhad UH and Abdulwahab, Saddam and Romani, Santiago and Radeva, Petia and Puig, Domenec},
   journal={arXiv preprint arXiv:1805.10241},
   year={2018}
 }
