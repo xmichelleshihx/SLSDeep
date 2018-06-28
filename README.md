@@ -5,7 +5,7 @@ SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling 
 ### Introduction
 This repository includes the code for reproducing the following paper which accepted for present in MICCAI 2018.
 
-<center><img src="model_archi.png" height="185"></img></center>
+<center><img src="model-archi.jpg" height="185"></img></center>
 
 If you use this code or its database, please consider citing:
 
